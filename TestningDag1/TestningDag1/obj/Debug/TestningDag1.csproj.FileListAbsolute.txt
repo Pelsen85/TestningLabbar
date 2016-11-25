@@ -1,0 +1,6 @@
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\bin\Debug\TestningDag1.exe.config
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\bin\Debug\TestningDag1.exe
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\bin\Debug\TestningDag1.pdb
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\obj\Debug\TestningDag1.csprojResolveAssemblyReference.cache
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\obj\Debug\TestningDag1.exe
+C:\Users\Adare\Documents\OOP Exercises\TestningDag1\TestningDag1\obj\Debug\TestningDag1.pdb
