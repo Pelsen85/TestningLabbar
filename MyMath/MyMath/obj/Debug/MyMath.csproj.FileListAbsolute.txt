@@ -1,5 +1,0 @@
-C:\Users\Adare\Documents\OOP Exercises\MyMath\MyMath\bin\Debug\MyMath.dll
-C:\Users\Adare\Documents\OOP Exercises\MyMath\MyMath\bin\Debug\MyMath.pdb
-C:\Users\Adare\Documents\OOP Exercises\MyMath\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
-C:\Users\Adare\Documents\OOP Exercises\MyMath\MyMath\obj\Debug\MyMath.dll
-C:\Users\Adare\Documents\OOP Exercises\MyMath\MyMath\obj\Debug\MyMath.pdb
