@@ -1,0 +1,8 @@
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\obj\Debug\TestManager.csprojResolveAssemblyReference.cache
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\bin\Debug\ProjektArbete.exe
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\bin\Debug\ProjektArbete.pdb
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Adare\OneDrive\Dokumenter\Visual Studio 2015\Projects\ProjektArbete\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

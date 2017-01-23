@@ -1,0 +1,6 @@
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe.config
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.pdb
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.csprojResolveAssemblyReference.cache
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.exe
+c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.pdb
