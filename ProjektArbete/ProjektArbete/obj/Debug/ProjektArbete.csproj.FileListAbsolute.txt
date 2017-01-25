@@ -4,3 +4,6 @@ c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\Pro
 c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.csprojResolveAssemblyReference.cache
 c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.exe
 c:\users\adare\onedrive\dokumenter\visual studio 2015\Projects\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.pdb
+C:\Users\Adare\Documents\Adrian_Newton-Ohnell_TAP\TestningLabbar\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe.config
+C:\Users\Adare\Documents\Adrian_Newton-Ohnell_TAP\TestningLabbar\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.exe
+C:\Users\Adare\Documents\Adrian_Newton-Ohnell_TAP\TestningLabbar\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.pdb

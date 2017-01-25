@@ -1,5 +1,5 @@
 ﻿using System;
-using UnitTestProject1;
+using ProjektArbete;
 
 namespace ProjektArbete
 {

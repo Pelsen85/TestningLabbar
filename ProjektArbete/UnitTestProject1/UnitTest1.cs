@@ -4,11 +4,13 @@ using static ProjektArbete.Program;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UnitTestProject1
+
+namespace ProjektArbete
 {
     [TestClass]
     public class TestManager
     {
+        // Adrian
         // 1. This is the first unit test. This test will output the first two
         // integers of the list.
 
@@ -25,13 +27,13 @@ namespace UnitTestProject1
         //    //Assert
         //    CollectionAssert.AreEqual(expected, actual);
         //}
-        
+
         [TestMethod]
         public void TestCocaCola_ShouldReturnTwoIntegers()
         {
             //Arrange
             var cocaCola = new CocaCola();
-            var expected = new List<string>{"1", "2"};
+            var expected = new List<string> { "1", "2" };
 
             //Act
             var actual = cocaCola.GetCocaCola(2);
@@ -40,6 +42,7 @@ namespace UnitTestProject1
             CollectionAssert.AreEqual(expected, actual);
         }
 
+        // Marc
         // 2. This is the second unit test. This test wil output the first two
         // integers and "Coca" instead of 3. This won't compile so the first unit test will not compile now.The TestCocaCola_ShouldReturnTwoIntegers
         // has to be changed. The result of this is shown under this section.
@@ -72,8 +75,9 @@ namespace UnitTestProject1
             CollectionAssert.AreEqual(expected, actual);
         }
 
+        // Adrian
         // 3. The third test testes if the first 5 items are: "1", "2", "Coca", "4", "Cola". The test fails becuase
-        // the output was "1", "2", "Coca", "4", "5". Therefor the GetCocaCola method needs to be rewrtitten.
+        // the output was "1", "2", "Coca", "4", "5". Therefore the GetCocaCola method needs to be rewrtitten.
 
         //[TestMethod]
         //public void TestCocaCola_ShouldReturnFirstFiveItems()
@@ -103,6 +107,7 @@ namespace UnitTestProject1
             CollectionAssert.AreEqual(expected, actual);
         }
 
+        // Marc
         // 4. The next test sees if we get "CocaCola" on 15, 30, 45, 60, 75 and 90. The test failed because
         // we got "Coca" instead of "CocaCola" on position 15. Therefore we had to change our 
         // GetNextCocaCola method. 
@@ -124,6 +129,7 @@ namespace UnitTestProject1
             Assert.AreEqual(expected, actual);
         }
 
+        // Adrian
         // 5. This test checks if the output is "CocaCola" instead of 60.
         [TestMethod]
         public void TestCocaCola_60thPosition_ShouldReturnCocaCola()
@@ -141,6 +147,7 @@ namespace UnitTestProject1
             Assert.AreEqual(expected, actual);
         }
 
+        // Marc
         // 6. This test checks if the output is "CocaCola" instead of 75.
         [TestMethod]
         public void TestCocaCola_75thPosition_ShouldReturnCocaCola()
@@ -159,6 +166,7 @@ namespace UnitTestProject1
         }
 
 
+        // Adrian
         // 7. This test checks if the final output is "Cola" instead of 100.
 
         [TestMethod]
